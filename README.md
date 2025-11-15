@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is a prototype, the application has been fully rewritten from scratch [here](https://github.com/anesthetice/Myrio/)
+
 Myrio is a command-line application designed to identify the taxonomy of a plant from a sample.
 
 The name Myrio is inspired by the scientific name _Myriophyllum spicatum_, commonly known as Eurasian watermilfoil, an aquatic plant frequently found in the Léman.
@@ -5,10 +8,6 @@ The name Myrio is inspired by the scientific name _Myriophyllum spicatum_, commo
 _If you are a contributor, please refer to [this document](/CONTRIBUTING.md)._
 
 ![demo](https://github.com/user-attachments/assets/497d24f7-6870-4951-b9c2-84582f12b6de)
-
-> [!WARNING]
-> This project is still in early development. It lacks many of the features we intend to implement, and a fair amount of technical debt remains under the hood (especially with certain dependencies). We don’t currently recommend installing or using Myrio unless you are very interested in contributing or experimenting.
-> That said, the preliminary results using our simplified pipeline have been encouraging, and development will likely continue under the GenoRobotics umbrella, stay tuned.
 
 ### Long half-finished list of things left to do
 
